@@ -1,1 +1,1 @@
-# The_Odin_Project_Library
+# Library (The Odin Project)
